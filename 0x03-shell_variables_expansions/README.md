@@ -1,1 +1,1 @@
-Create a script that create an alias.
+This is my readme file on 0x03-shell_variables_expansions
